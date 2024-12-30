@@ -66,15 +66,10 @@ The project utilizes the following datasets:
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/social-economic-analysis.git
+   https://github.com/Avani-Satam/Fatal_Force-Analysis.git
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open the Google Colab Notebook and run the analysis:
+2. Open the Google Colab Notebook and run the analysis:
    ```bash
    Open Fatal_Force_(start).ipynb in Google Colab
    ```
